@@ -1,0 +1,17 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "uuid": "^8.2.0",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
